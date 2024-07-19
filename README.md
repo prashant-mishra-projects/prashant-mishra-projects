@@ -1,6 +1,6 @@
 <img src=https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif>
 <h1 align="center">Hi 👋, I'm Prashant Mishra</h1>
-<h3 align="center">A passionate App Developer and Senior Student at Indraprastha University, New Delhi</h3>
+<h3 align="center">A passionate Full Stack Developer and Senior Student at Indraprastha University, New Delhi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diaryof-prashant&label=Profile%20views&color=0e75b6&style=flat" alt="diaryof-prashant" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **an interesting application.**
 
-- 🌱 I’m currently learning **django,flask**
+- 🌱 I’m currently learning **react**
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
