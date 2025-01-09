@@ -1,4 +1,4 @@
-<img src=https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif>
+<img src=[https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif](https://www.gabrielcorralcardenas.com/cit82-web-technologies-lecture3/)>
 <h1 align="center">Hi 👋, I'm Prashant Mishra</h1>
 <h3 align="center">A passionate Full Stack Developer and Senior Student at Indraprastha University, New Delhi</h3>
 
