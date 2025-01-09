@@ -1,4 +1,4 @@
-<img src=https://i.makeagif.com/media/11-06-2016/XWjVAY.gif>
+<img src=https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif>
 
 <h1 align="center">Hi 👋, I'm Prashant Mishra</h1>
 <h3 align="center">A passionate Full Stack Developer and Senior Student at Indraprastha University, New Delhi</h3>
