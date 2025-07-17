@@ -1,4 +1,4 @@
-<img src=[https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif](https://medium.com/@oninross/do-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63)>
+<img src=https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif>
 
 <h1 align="center">Hi 👋, I'm Prashant Mishra</h1>
 <h3 align="center">A passionate Full Stack Developer and Senior Student at Indraprastha University, New Delhi</h3>
