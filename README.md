@@ -1,4 +1,6 @@
-<img src=https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif>
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="animated-banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Prashant Mishra</h1>
 <h3 align="center">A passionate Full Stack Developer and Senior Student at Indraprastha University, New Delhi</h3>
